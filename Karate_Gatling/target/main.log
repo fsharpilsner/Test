@@ -1,0 +1,2 @@
+22:15:01.360 assertion failed: path: $.data[0].shipmentStatus, actual: 'Delivered', expected: ["Delivered"], reason: actual value is not list-like
+ctual json-path does not exist

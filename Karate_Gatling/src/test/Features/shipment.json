@@ -1,0 +1,25 @@
+{
+  "data": {
+    "client_code": "1010234",
+    "shipment_code": "003",
+    "shipment_details": [
+      {
+        "shipment_number": "60000047",
+        "pack_items": [
+          {
+            "pack_id": "60000253",
+            "weight": 12.0,
+            "weight_unit": "KG",
+            "volume": 50.0,
+            "height": 50.0,
+            "width": 50.0,
+            "length": 50.0,
+            "volume_unit": "CFT",
+            "dimension_unit": "LBS"
+          }
+        ]
+      }
+
+    ]
+  }
+}
