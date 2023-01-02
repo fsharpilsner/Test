@@ -1,5 +1,3 @@
-
-//https://qalabs.in/2022/10/29/how-to-use-gatling-to-do-api-performance-testing/
 //https://designer.mocky.io/design
 
 import com.intuit.karate.gatling.PreDef.*
